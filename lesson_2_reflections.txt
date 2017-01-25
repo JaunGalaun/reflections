@@ -2,3 +2,5 @@ What happens when you initialize a repository? Why do you need to do it?
 you create a folder .git for necessary files for git to be used. This folder will track commits of the files.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 staging area defines the files that are going to be tracked in the working directory and repository. The working directory contains the files currently in used while the repository is the collection of all the version of the different files in the staging area.
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+we can work on experimental projects or test new features. These branches will helop keeping track of each individual branch
