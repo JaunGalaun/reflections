@@ -4,3 +4,5 @@ How is the staging area different from the working directory and the repository?
 staging area defines the files that are going to be tracked in the working directory and repository. The working directory contains the files currently in used while the repository is the collection of all the version of the different files in the staging area.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 we can work on experimental projects or test new features. These branches will helop keeping track of each individual branch
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+it combines the code of the two branches in a final commit. Branches still exist
