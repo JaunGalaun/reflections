@@ -6,3 +6,5 @@ What are some situations when branches would be helpful in keeping your history 
 we can work on experimental projects or test new features. These branches will helop keeping track of each individual branch
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 it combines the code of the two branches in a final commit. Branches still exist
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+we can merge codes from different branches (or people working on different parts of the code) easily. Merging manually will lead to erros and might be time consuming.
