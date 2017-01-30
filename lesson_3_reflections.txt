@@ -1,2 +1,4 @@
 When would you want to use a remote repository rather than keeping all your work local?
 when there is a master project and you only are working on one part
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+when you are ony working on specific branches of a master project and you dont need the rest of the files in the github repository
