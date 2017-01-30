@@ -4,3 +4,5 @@ Why might you want to always pull changes manually rather than having Git automa
 when you are ony working on specific branches of a master project and you dont need the rest of the files in the github repository
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 branches separate from the master branch to do changes without altering the master path. Clones copy all files and commits from a repository, forks getes all files from somebody else's project and creates a copy in github
+What is the benefit of having a copy of the last known state of the remote stored locally?
+in order to check if you are ahead, behind or out of sync with remote.
